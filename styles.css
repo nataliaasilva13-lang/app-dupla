@@ -1,0 +1,53 @@
+body{
+    font-family: Arial,sans-serif;
+    text-align: center;
+    background-color: #eeeeee;
+
+}
+
+h1{
+    background-color: #0066a1;
+    color: white;
+    padding: 20px;
+}
+
+
+input, textarea{
+    display: block;
+    width: 80vw;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+textarea{
+    height: 100px;
+}
+
+button{
+    padding: 10px 30px;
+    background-color: #0066a1;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#mural{
+    margin-top: 20px;
+
+}
+
+.mensagem{
+    background-color: white;
+    width: 80vw;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+#logoGremio{
+    width: 45px;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
